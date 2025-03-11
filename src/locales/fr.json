@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "title": "JAMES SHARPLES",
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "trayectoria": "Carrière",
+    "contact": "Contactez-moi"
+  },
+  "home": {
+    "banner_title": "JAMES SHARPLES\nStudio",
+    "banner_description": "Merci de m'accompagner dans cette quête constante de sens et de beauté.\nRappelez-vous toujours : l'art ne se contente pas d’être observé, il se vit.",
+    "button": "Galerie",
+    "section_title": "Œuvres en Vedette",
+    "section_content": "",
+    "section_title2": "Transformer l'Argile en Quelque Chose d'Étonnant",
+    "section_content2": "Nous ouvrirons bientôt l'Atelier d'Art Céramique.\nUn espace où le matériel et le spirituel convergent à travers l'argile.\nPlus qu'un simple cours technique, c'est un espace d'exploration et de découverte.\nLa céramique a quelque chose d'unique : le contact direct avec la terre, le modelage, la chaleur du four qui donne vie à la pièce ; c'est un processus qui demande de la patience et qui, en retour, apprend à lâcher prise.",
+    "vision_mission_title": "L'art est la nourriture de l'âme... c'est la poésie sans mots",
+    "vision_mission_content": "La peinture, comme la poésie, est capable d'évoquer des émotions et de transmettre des idées complexes sans avoir besoin de mots. À travers les couleurs, les formes et la composition, l'artiste peut créer un monde plein de sens.",
+    "banner_title1": "Explorez Notre Parcours",
+    "banner_content1": "Découvrez tout notre parcours dans le monde de l'art au fil des années",
+    "banner_button1": "Parcours",
+    "vision_title": "Vision",
+    "vision_content": "Offrir une éducation artistique de qualité aux jeunes, en favorisant leur créativité et leur expression à travers les beaux-arts.",
+    "mission_title": "Mission",
+    "mission_content": "Contribuer à la formation intégrale des jeunes, en renforçant leur estime de soi et leurs compétences sociales.",
+    "noticias_title2": "Dernières Nouvelles",
+    "noticias_content2": "Restez informé des dernières nouvelles, événements et actualités du monde de l'art."
+  },
+  "gallery": {
+    "banner_title": "Galerie d'Œuvres",
+    "banner_description": "Explorez toutes les œuvres d'art disponibles dans notre galerie.",
+    "title": "Toutes les Œuvres",
+    "description": "Ici, vous trouverez une collection complète de nos œuvres d'art, en explorant chaque pièce en détail."
+  },
+  "footer": {
+    "contact_title": "Contactez-nous",
+    "explore_title": "Explorez notre site",
+    "policies_title": "Politiques du site",
+    "home": "Accueil",
+    "about": "Qui sommes-nous ?",
+    "gallery": "Galerie",
+    "events": "Événements",
+    "news": "Actualités et Articles",
+    "shipping_info": "Informations sur la livraison",
+    "privacy_policy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "contact": "Contactez-nous"
+  },
+
+  "contact": {
+    "banner_title": "Contactez-nous",
+    "banner_description": "Laissez-nous un message et nous vous répondrons dès que possible.",
+    "form_title": "Envoyez-nous un message",
+    "name": "Nom Complet",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "message": "Message",
+    "send_button": "Envoyer le message"
+  }
+}

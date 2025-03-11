@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "title": "JAMES SHARPLES",
+    "home": "Home",
+    "gallery": "Gallery",
+    "trayectoria": "Career",
+    "contact": "Contact Me"
+  },
+  "home": {
+    "banner_title": "JAMES SHARPLES\nStudio",
+    "banner_description": "Thank you for joining me in this constant search for meaning and beauty.\nRemember always: art is not only observed, it is lived.",
+    "button": "Gallery",
+    "section_title": "Featured Works",
+    "section_content": "",
+    "section_title2": "Turning Clay into Something Amazing",
+    "section_content2": "We will soon open the Ceramic Art Workshop.\nA space where the material and the spiritual converge through clay.\nMore than just a technical class, it is a space for exploration and discovery.\nCeramics has something unique: the direct contact with the earth, the shaping, the heat of the kiln that gives life to the piece; it is a process that requires patience and, in turn, teaches to let go.",
+    "vision_mission_title": "Art is the food of the soul... it is poetry without words",
+    "vision_mission_content": "Painting, like poetry, is capable of evoking emotions and conveying complex ideas without the need for words. Through colors, shapes, and composition, the artist can create a world full of meaning.",
+    "banner_title1": "Explore Our Journey",
+    "banner_content1": "Discover our entire journey in the world of art over the years",
+    "banner_button1": "Journey",
+    "vision_title": "Vision",
+    "vision_content": "To provide high-quality artistic education to young people, fostering their creativity and expression through the fine arts.",
+    "mission_title": "Mission",
+    "mission_content": "To contribute to the integral formation of young people, strengthening their self-esteem and social skills.",
+    "noticias_title2": "Latest News",
+    "noticias_content2": "Stay updated with the latest news, events, and insights from the art world."
+  },
+  "gallery": {
+    "banner_title": "Gallery of Works",
+    "banner_description": "Explore all the artworks available in our gallery.",
+    "title": "All Artworks",
+    "description": "Here you will find a complete collection of our artworks, exploring each piece in detail."
+  },
+  "footer": {
+    "contact_title": "Contact Us",
+    "explore_title": "Explore Our Site",
+    "policies_title": "Site Policies",
+    "home": "Home",
+    "about": "Who We Are?",
+    "gallery": "Gallery",
+    "events": "Events",
+    "news": "News and Articles",
+    "shipping_info": "Shipping Information",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "contact": "Contact Us"
+  },
+
+  "contact": {
+    "banner_title": "Contact Us",
+    "banner_description": "Leave us a message and we will get back to you as soon as possible.",
+    "form_title": "Send us a message",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send_button": "Send Message"
+  }
+}
