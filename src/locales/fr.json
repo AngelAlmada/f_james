@@ -24,7 +24,8 @@
     "mission_title": "Mission",
     "mission_content": "Contribuer à la formation intégrale des jeunes, en renforçant leur estime de soi et leurs compétences sociales.",
     "noticias_title2": "Dernières Nouvelles",
-    "noticias_content2": "Restez informé des dernières nouvelles, événements et actualités du monde de l'art."
+    "noticias_content2": "Restez informé des dernières nouvelles, événements et actualités du monde de l'art.",
+    "section_contact": "Contactez-nous pour plus d'informations"
   },
   "gallery": {
     "banner_title": "Galerie d'Œuvres",
@@ -56,5 +57,26 @@
     "phone": "Téléphone",
     "message": "Message",
     "send_button": "Envoyer le message"
+  },
+  "about": {
+    "section_title": "Qui est James ?",
+    "section_content": "Je suis né à Philadelphie, en Pennsylvanie. Depuis toujours, j'ai ressenti une connexion profonde avec la terre et la vie qui m'entoure. La peinture et la céramique sont devenues mes langages, les moyens par lesquels je peux exprimer ce que les mots n'arrivent pas à capturer. À l'âge de 18 ans, j'ai remporté mon premier prix en sérigraphie aux Beaux-Arts. Ce fut un moment décisif, la confirmation que l'art avait choisi de me guider, et non l'inverse.\n\nJe crois profondément que l'art doit avoir une place dans la vie des gens. C'est une porte pour exprimer des émotions, des pensées et se connecter à quelque chose de plus grand que nous-mêmes.",
+    "banner_title": "Trajectoire",
+    "banner_description": "Au fil des ans, chaque étape a été une évolution constante dans l'art. \nExplorez mon parcours, mes expériences et les influences qui ont façonné mon travail."
+  },
+  "form": {
+    "title": "Demander des informations",
+    "name_label": "Nom complet :",
+    "name_placeholder": "Nom",
+    "email_label": "Adresse e-mail :",
+    "email_placeholder": "exemple@email.com",
+    "phone_label": "Numéro de téléphone :",
+    "phone_placeholder": "téléphone",
+    "message_label": "Message :",
+    "message_placeholder": "Écrivez votre message ici...",
+    "submit_button": "Envoyer",
+    "success_message": "Message envoyé avec succès !",
+    "alert_empty_fields": "Veuillez remplir tous les champs.",
+    "submit_error": "Une erreur s'est produite lors de l'envoi du formulaire. Veuillez réessayer."
   }
 }

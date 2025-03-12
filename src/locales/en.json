@@ -24,7 +24,8 @@
     "mission_title": "Mission",
     "mission_content": "To contribute to the integral formation of young people, strengthening their self-esteem and social skills.",
     "noticias_title2": "Latest News",
-    "noticias_content2": "Stay updated with the latest news, events, and insights from the art world."
+    "noticias_content2": "Stay updated with the latest news, events, and insights from the art world.",
+    "section_contact": "Contact us for more information"
   },
   "gallery": {
     "banner_title": "Gallery of Works",
@@ -56,5 +57,28 @@
     "phone": "Phone",
     "message": "Message",
     "send_button": "Send Message"
+  },
+
+  "about": {
+    "section_title": "Who is James?",
+    "section_content": "I was born in Philadelphia, Pennsylvania. For as long as I can remember, I have felt a deep connection to the land and the life around me. Painting and ceramics became my languages, the ways I can express what words fail to capture. At the age of 18, I won my first award in screen printing at Fine Arts. It was a decisive moment, the confirmation that art had chosen to guide me, rather than the other way around.\n\nI deeply believe that art should have a place in people's lives. It is a gateway to express emotions, thoughts, and connect with something greater than ourselves.",
+    "banner_title": "Trajectory",
+    "banner_description": "Over the years, every step has been a constant evolution in art. \nExplore my journey, experiences, and the influences that have shaped my work."
+  },
+
+  "form": {
+    "title": "Request Information",
+    "name_label": "Full Name:",
+    "name_placeholder": "Name",
+    "email_label": "Email Address:",
+    "email_placeholder": "example@email.com",
+    "phone_label": "Phone Number:",
+    "phone_placeholder": "Phone",
+    "message_label": "Message:",
+    "message_placeholder": "Write your message here...",
+    "submit_button": "Send",
+    "success_message": "Message sent successfully!",
+    "alert_empty_fields": "Please fill in all fields.",
+    "submit_error": "There was an error sending the form. Please try again."
   }
 }

@@ -24,7 +24,8 @@
     "mission_title": "Misión",
     "mission_content": "Contribuir a la formación integral de los jóvenes, fortaleciendo su autoestima y habilidades sociales.",
     "noticias_title2": "Últimas Noticias",
-    "noticias_content2": "Mantente informado con las últimas novedades, eventos y noticias del mundo del arte."
+    "noticias_content2": "Mantente informado con las últimas novedades, eventos y noticias del mundo del arte.",
+    "section_contact": "Contáctanos para más información"
   },
   "gallery": {
     "banner_title": "Galería de Obras",
@@ -56,5 +57,84 @@
     "phone": "Teléfono",
     "message": "Mensaje",
     "send_button": "Enviar Mensaje"
+  },
+  "about": {
+    "section_title": "¿Quién es James?",
+    "section_content": "Nací en Philadelphia, Pennsylvania. Desde que tengo memoria, he sentido una conexión profunda con la tierra y con la vida que me rodea. La pintura y la cerámica se convirtieron en mis lenguajes, las formas en las que puedo expresar lo que las palabras no logran capturar. A los 18 años, gané mi primer premio en grabado en serigrafía en Bellas Artes. Fue un momento decisivo, la confirmación de que el arte había elegido guiarme y no al revés.\n\nCreo profundamente que el arte debe ocupar un lugar en la vida de las personas. Es una puerta para expresar emociones, pensamientos, y conectar con algo más grande que nosotros mismos.",
+    "banner_title": "Trayectoria",
+    "banner_description": "A lo largo de los años, cada paso ha sido una evolución constante en el arte. \nExplora mi camino, mis experiencias y las influencias que han dado forma a mi obra."
+  },
+  "form": {
+    "title": "Solicitar Información",
+    "name_label": "Nombre Completo:",
+    "name_placeholder": "Nombre",
+    "email_label": "Correo Electrónico:",
+    "email_placeholder": "ejemplo@correo.com",
+    "phone_label": "Número de Teléfono:",
+    "phone_placeholder": "Teléfono",
+    "message_label": "Mensaje:",
+    "message_placeholder": "Escribe tu mensaje aquí...",
+    "submit_button": "Enviar",
+    "success_message": "¡Mensaje enviado correctamente!",
+    "alert_empty_fields": "Por favor, completa todos los campos.",
+    "submit_error": "Hubo un error al enviar el formulario. Inténtalo de nuevo."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "introduction": "Bienvenido a nuestro blog. Tu privacidad es importante para nosotros. En esta política de privacidad explicamos cómo recopilamos, usamos y protegemos tu información personal.",
+
+    "data_collection_title": "1. Información que Recopilamos",
+    "data_collection_text": "Recopilamos información que nos proporcionas voluntariamente, como tu nombre y correo electrónico cuando te suscribes al boletín, comentas en publicaciones o utilizas el formulario de contacto.",
+
+    "cookies_title": "2. Uso de Cookies",
+    "cookies_text": "Utilizamos cookies para mejorar la experiencia del usuario. Estas permiten recordar preferencias y analizar el tráfico del sitio. Puedes configurar tu navegador para rechazar las cookies en cualquier momento.",
+
+    "third_party_title": "3. Compartición con Terceros",
+    "third_party_text": "No vendemos ni compartimos tu información personal con terceros, excepto cuando sea necesario para operar nuestro sitio web o cumplir con la ley.",
+
+    "rights_title": "4. Tus Derechos",
+    "rights_text": "Tienes derecho a acceder, corregir o eliminar tu información personal en cualquier momento. Contáctanos si deseas ejercer estos derechos.",
+
+    "changes_title": "5. Cambios en esta Política",
+    "changes_text": "Nos reservamos el derecho de modificar esta política en cualquier momento. Publicaremos los cambios en esta página y, si es necesario, te notificaremos por correo electrónico.",
+
+    "contact_text": "Si tienes preguntas sobre esta política de privacidad, puedes contactarnos a través de nuestro formulario de contacto."
+  },
+  "terms": {
+    "title": "Términos y Condiciones",
+    "introduction": "Bienvenido a nuestro blog. Al acceder y utilizar este sitio web, aceptas cumplir con los siguientes términos y condiciones. Si no estás de acuerdo con alguno de estos términos, te pedimos que no uses este sitio.",
+
+    "use_title": "1. Uso del Sitio",
+    "use_text": "Este sitio web está destinado para compartir información sobre el arte del artista. No puedes utilizarlo para fines ilícitos ni para difundir contenido dañino o inapropiado.",
+
+    "content_title": "2. Propiedad Intelectual",
+    "content_text": "Todos los contenidos del blog, incluyendo imágenes, textos y diseños, están protegidos por derechos de autor y no pueden ser copiados, reproducidos o distribuidos sin el consentimiento del artista.",
+
+    "user_responsibility_title": "3. Responsabilidad del Usuario",
+    "user_responsibility_text": "El usuario es responsable de los comentarios y contenido que publique en el sitio. Nos reservamos el derecho de eliminar comentarios ofensivos o inapropiados sin previo aviso.",
+
+    "changes_title": "4. Modificaciones en los Términos",
+    "changes_text": "Nos reservamos el derecho de actualizar estos términos en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en el sitio.",
+
+    "contact_title": "5. Contacto",
+    "contact_text": "Si tienes preguntas sobre estos términos y condiciones, puedes contactarnos a través de nuestro formulario de contacto."
+  },
+  "shipping": {
+    "title": "Información de Entrega",
+    "introduction": "Aquí encontrarás información sobre los métodos, tiempos y costos de entrega de nuestras obras de arte.",
+
+    "methods_title": "Métodos de Envío",
+    "methods_text": "Ofrecemos envíos a nivel nacional e internacional mediante transportistas de confianza. Los envíos pueden realizarse a través de mensajería estándar o exprés según tu elección.",
+
+    "time_title": "Tiempos de Entrega",
+    "time_text": "El tiempo de entrega varía según la ubicación. Envíos nacionales pueden tardar entre 3 y 7 días hábiles, mientras que los envíos internacionales pueden demorar entre 10 y 20 días hábiles.",
+
+    "costs_title": "Costos de Envío",
+    "costs_text": "El costo del envío dependerá de la ubicación y del tamaño de la obra adquirida. Ofrecemos envío gratuito en compras superiores a $100 USD en territorio nacional.",
+
+    "tracking_title": "Seguimiento del Pedido",
+    "tracking_text": "Recibirás un número de seguimiento por correo electrónico una vez que tu pedido haya sido enviado. Puedes rastrear tu pedido en el sitio web del transportista correspondiente.",
+
+    "contact_button": "¿Tienes dudas? Contáctanos"
   }
 }

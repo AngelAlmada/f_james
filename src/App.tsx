@@ -5,6 +5,9 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
+import PolitPriv from "./components/PolitPriv";
+import TermCon from "./components/TermCon";
+import ShippingInfo from "./components/ShippingInfo";
 
 
 function App() {
@@ -19,6 +22,9 @@ function App() {
                     <Route path="/about" element={<About />} />
                     <Route path="/gallery" element={<Gallery />} />
                     <Route path="/contact" element={<Contact />} />
+                    <Route path="/politpriv" element={<PolitPriv />} />
+                    <Route path="/termcon" element={<TermCon />} />
+                    <Route path="/shippinginfo" element={<ShippingInfo />} />
                 </Routes>
             </div>
 

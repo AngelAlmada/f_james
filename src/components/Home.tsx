@@ -23,7 +23,7 @@ export function Home() {
                         <br />
                     </span>
                 ))}
-                media="/videos/vid6.mp4" // ✅ Video de fondo
+                media="/videos/vid6.webm" // ✅ Video de fondo
                 isVideo={true}
             >
                 {/* ✅ Botón dentro del Banner */}

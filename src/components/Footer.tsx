@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import { FaWhatsapp, FaEnvelope, FaFacebook, FaXTwitter, FaInstagram, FaLinkedin } from "react-icons/fa6";
+import { FaWhatsapp, FaEnvelope } from "react-icons/fa6";
+import { Facebook, Twitter, Instagram, Youtube, Linkedin, MessageCircle } from "lucide-react"; // ✅ Iconos de Lucide
 
 export function Footer() {
     const { t } = useTranslation();
@@ -16,12 +17,12 @@ export function Footer() {
                     <p>Residencial, Los Mochis, Sinaloa.</p>
                     <p>81293 Los Mochis, Sinaloa.</p>
                     <div className="flex items-center gap-2 mt-2">
-                        <FaWhatsapp className="text-green-500" />
-                        <p>+52 668 234 5785</p>
+                        <FaWhatsapp className="text-green-500 w-5 h-5 sm:w-6 sm:h-6" />
+                        <p>+52 668 32 10 822</p>
                     </div>
                     <div className="flex items-center gap-2 mt-2">
-                        <FaEnvelope className="text-gray-600" />
-                        <p>hola@james-sharples.org</p>
+                        <FaEnvelope className="text-gray-600 w-5 h-5 sm:w-6 sm:h-6" />
+                        <p>artesharples10@gmail.com</p>
                     </div>
                 </div>
 
@@ -43,20 +44,37 @@ export function Footer() {
                     <h3 className="text-xl font-bold mb-4">{t("footer.policies_title")}</h3>
                     <hr className="border-gray-400 w-16 mb-4" />
                     <ul className="space-y-2">
-                        <li><Link to="/shipping-info" className="hover:text-blue-600">{t("footer.shipping_info")}</Link></li>
-                        <li><Link to="/privacy-policy" className="hover:text-blue-600">{t("footer.privacy_policy")}</Link></li>
-                        <li><Link to="/terms" className="hover:text-blue-600">{t("footer.terms")}</Link></li>
+                        <li><Link to="/shippinginfo" className="hover:text-blue-600">{t("footer.shipping_info")}</Link></li>
+                        <li><Link to="/PolitPriv" className="hover:text-blue-600">{t("footer.privacy_policy")}</Link></li>
+                        <li><Link to="/TermCon" className="hover:text-blue-600">{t("footer.terms")}</Link></li>
                         <li><Link to="/contact" className="hover:text-blue-600">{t("footer.contact")}</Link></li>
                     </ul>
                 </div>
             </div>
 
-            {/* 🔹 Redes Sociales */}
-            <div className="flex justify-center mt-8 gap-6 text-gray-600 text-2xl">
-                <a href="#" className="hover:text-blue-600"><FaFacebook /></a>
-                <a href="#" className="hover:text-blue-600"><FaXTwitter /></a>
-                <a href="#" className="hover:text-blue-600"><FaInstagram /></a>
-                <a href="#" className="hover:text-blue-600"><FaLinkedin /></a>
+            {/* 🔹 Redes Sociales con Iconos Responsivos */}
+            <div className="flex justify-center mt-8 gap-4 sm:gap-6 text-lg sm:text-2xl">
+                <a href="https://www.facebook.com/jamessharplesart/" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <Facebook className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
+                <a href="https://x.com/JamesSharplesA" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <Twitter className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
+                <a href="https://www.instagram.com/jamessharplesartist/" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <Instagram className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
+                <a href="https://www.youtube.com/@JamesSharplesArtist" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <Youtube className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
+                <a href="https://www.linkedin.com/in/james-sharples-artist/" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <Linkedin className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
+                <a href="https://mx.pinterest.com/jamesharplesartist/" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <img src="/icons/Pinterest.png" alt="Pinterest" className="w-5 h-5 sm:w-6 sm:h-6" />
+                </a>
+                <a href="https://wa.me/+5216683210822" target="_blank" rel="noopener noreferrer" className="p-2 border border-stone-400 rounded-full hover:bg-stone-300 transition">
+                    <MessageCircle className="w-5 h-5 sm:w-6 sm:h-6 text-stone-700" />
+                </a>
             </div>
         </footer>
     );

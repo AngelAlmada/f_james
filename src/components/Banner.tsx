@@ -10,7 +10,13 @@ interface BannerProps {
   children?: ReactNode; // ✅ Permite recibir el botón u otros elementos
 }
 
-export function Banner({ title, description, media, isVideo = false, children }: BannerProps) {
+export function Banner({
+  title,
+  description,
+  media,
+  isVideo = false,
+  children,
+}: BannerProps) {
   return (
     <motion.section
       className="relative w-full h-screen flex flex-col justify-center items-center text-center text-stone-700 overflow-hidden"
@@ -23,6 +29,7 @@ export function Banner({ title, description, media, isVideo = false, children }:
           autoPlay
           loop
           muted
+          preload="auto"
         >
           <source src={media} type="video/mp4" />
           Tu navegador no soporta videos.

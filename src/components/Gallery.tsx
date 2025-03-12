@@ -26,7 +26,7 @@ export function Gallery() {
                         <br />
                     </span>
                 ))}
-                media="/videos/vid8.mp4" // ✅ Video de fondo
+                media="/videos/vid8.webm" // ✅ Video de fondo
                 isVideo={true}
             />
 

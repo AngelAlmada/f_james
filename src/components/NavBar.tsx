@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import { Menu, X } from "lucide-react"; // ✅ Iconos para el menú hamburguesa
+import { Menu, X} from "lucide-react"; // ✅ Iconos de Lucide
 
 export function NavBar() {
     const { t, i18n } = useTranslation();
@@ -21,8 +21,8 @@ export function NavBar() {
             <div className="hidden md:flex gap-8 text-lg font-semibold flex-grow justify-center">
                 <Link to="/" className="hover:text-blue-400 transition">{t("navbar.home")}</Link>
                 <Link to="/gallery" className="hover:text-blue-400 transition">{t("navbar.gallery")}</Link>
-                <Link to="/About" className="hover:text-blue-400 transition">{t("navbar.trayectoria")}</Link>
-                <Link to="/Contact" className="hover:text-blue-400 transition">{t("navbar.contact")}</Link>
+                <Link to="/about" className="hover:text-blue-400 transition">{t("navbar.trayectoria")}</Link>
+                <Link to="/contact" className="hover:text-blue-400 transition">{t("navbar.contact")}</Link>
             </div>
 
             {/* Selector de idioma alineado a la derecha */}
